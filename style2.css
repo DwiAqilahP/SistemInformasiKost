@@ -1,0 +1,38 @@
+/*.header {
+	background: url("../img/bg.jfif") no-repeat;
+	background-size: cover;
+	height: 600px;
+	background-position-y: -330px;
+}*/
+.navbar {
+	z-index: 10;
+}
+/*.jumbotron {
+	padding-top: 80px;
+}
+.tron {
+	margin-top: 50px;
+}
+*/.konten-atas {
+	margin-top: 70px;
+}
+.gambar {
+	/*margin-left: 320px;*/
+	width: 700px;
+}
+.konten hr {
+	width: 150px;
+	border-top: 4px solid #666;
+}
+.konten .hrS, .konten-atas .hrS {
+	background: -webkit-linear-gradient(right, #00FFFF, #00FA9A);
+	height: 2px;
+	width: 130px;
+	margin-bottom: 10px;
+}
+.konten .hr{
+	background: -webkit-linear-gradient(right, #00FFFF, #00FA9A);
+	height: 2px;
+	width: 209px;
+	margin-bottom: 10px;
+}
